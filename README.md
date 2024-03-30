@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramkumar@ramkumar-codes
-- 👀 I’m interested in Web Development, Machine Leearning and Neural Networks
+- 👀 I’m interested in Web Development, Machine Learning and Neural Networks
 - 🌱 I’m currently learning frontend and backend software development to explore more in Web Dev space
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me!
